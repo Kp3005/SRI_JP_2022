@@ -12,6 +12,13 @@ The primary actors of our website are;-
 4. Counter Manager (for each store works like a cashier)
 
 # Installation
+
+To run this project on a local server, clone this repository or download a zip file on your PC. Clone the project on a local PC:
+
+```bash
+  git clone https://github.com/Kp3005/SRI_JP_2022.git
+```
+
 To run this application, you need to install XAMPP first.
 Installation link: https://www.apachefriends.org/download.html
 
