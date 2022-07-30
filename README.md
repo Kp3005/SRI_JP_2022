@@ -39,9 +39,12 @@ https://github.com/Kp3005/SRI_JP_2022
 
 
 # Login Details
-We have only one Admin and one Counter Manager for our Website so, 
+We have only one Admin and one Counter Manager for our Website so,
+
 To log in as Admin use email and password as : admin123@gmail.com , admin123@
+
 To log in as counter manager use email and password as : counter123@gmail.com , counter123@
+
 To log in as updates manager or a customer, you can see the database (umtable, usertable) and enter details accordingly.
 
 # Output Video
