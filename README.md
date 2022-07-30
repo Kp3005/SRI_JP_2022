@@ -14,6 +14,8 @@ The primary actors of our website are;-
 # Installation
 To run this application, you need to install XAMPP first.
 Installation link: https://www.apachefriends.org/download.html
+![image](https://user-images.githubusercontent.com/95097530/181876791-be7c97ca-25eb-4a6b-ab85-2b97025aea09.png)
+
 
 To run a PHP file, first start xampp and then click on admin to 
 open localhost phpmyadmin database. Now you need to 
